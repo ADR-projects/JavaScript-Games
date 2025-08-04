@@ -1,0 +1,6 @@
+[submodule "Unbeatable_TTT"]
+	path = Unbeatable_TTT
+	url = https://github.com/ADR-projects/Unbeatable-TicTacToe
+[submodule "Humanized_TTT"]
+	path = Humanized_TTT
+	url = https://github.com/ADR-projects/Fish-Cat-Toe.git
